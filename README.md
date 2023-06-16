@@ -1,6 +1,14 @@
 # Smart Room Monitor
 Monitoring suhu dan kelembaban ruangan menggunakan sensor DHT (Digital Humidity and Temperature) yang dihubungkan dengan aplikasi mobile dan MQTT. 
 
+## Anggota Kelompok
+|No| NIM      | Nama                | 
+|--|----------|---------------------|
+|1 |2009106076|Rahmiatul Mawaddah   |
+|2 |2009106099|Indro Dwi Saputro    |
+|3 |2009106100|Alyani Noor Septalia |
+|4 |2009106138|Taufiq July Kurniawan|
+
 ## Penjelasan Program
 
 ### Wokwi
